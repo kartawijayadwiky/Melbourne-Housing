@@ -18,7 +18,7 @@ with MAE is : **251688.7630729503** </br>
 with MAE is : **190414** </br>
 
 ## Comparing MAE value with set parameter to choose the the best one among the parameters
-![](https://github.com/kartawijayadwiky/Melbourne-Housing/blob/master/compare_mae.PNG)
+![](https://github.com/kartawijayadwiky/Melbourne-Housing/blob/master/img/compare_mae.PNG)
 
 ## Reference
 kaggle 03 | Belajar Machine Learning Dasar dengan Python | Machine Learning Pemula Bahasa Indonesia </br>
